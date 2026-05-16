@@ -6,6 +6,8 @@
 // @author       S0ul
 // @match        https://www.torrentbd.net/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torrentbd.net
+// @downloadURL  https://raw.githubusercontent.com/S0ul-EiB/userscripts/main/tbd/freeleech.user.js
+// @updateURL    https://raw.githubusercontent.com/S0ul-EiB/userscripts/main/tbd/freeleech.user.js
 // @grant        none
 // ==/UserScript==
 
