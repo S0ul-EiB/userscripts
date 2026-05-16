@@ -21,7 +21,7 @@
    CONFIG
 ========================= */
 
-    const FREELEECH_ICON_SIZE = 30;
+    const FREELEECH_ICON_SIZE = 22;
 
     const SWITCH_OFF_TOP = '#334155';
     const SWITCH_OFF_BOTTOM = '#1e293b';
